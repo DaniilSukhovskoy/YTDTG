@@ -1,7 +1,15 @@
 # Table of contents
 
-* [Основы стиля](README.md)
+* [Про этот гайд](README.md)
 * [Логотип](logotip.md)
+* [Иконка приложения](ikonka-prilozheniya.md)
+* [Шрифты](shrifty.md)
+* [Цвета](cveta.md)
+* [Пропорции цветных блоков](proporcii-cvetnykh-blokov.md)
+* [Печатные материалы](pechatnye-materialy/README.md)
+  * [Плакат A1](pechatnye-materialy/plakat-a1.md)
+  * [Листовка A5](pechatnye-materialy/listovka-a5.md)
+  * [Брошюра А6](pechatnye-materialy/broshyura-a6.md)
 * [Наружная реклама](naruzhnaya-reklama/README.md)
   * [Билборд](naruzhnaya-reklama/bilbord.md)
   * [Ситиборд](naruzhnaya-reklama/sitibord.md)
