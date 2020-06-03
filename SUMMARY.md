@@ -5,6 +5,8 @@
 * [Иконка приложения](ikonka-prilozheniya.md)
 * [Шрифты](shrifty.md)
 * [Цвета](cveta.md)
+* [Пиктограммы](piktogrammy.md)
+* [Элементы стиля](elementy-stilya.md)
 * [Пропорции цветных блоков](proporcii-cvetnykh-blokov.md)
 * [Печатные материалы](pechatnye-materialy/README.md)
   * [Плакат A1](pechatnye-materialy/plakat-a1.md)

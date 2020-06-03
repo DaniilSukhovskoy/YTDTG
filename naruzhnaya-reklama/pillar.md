@@ -33,10 +33,6 @@
 | Отступ | — | — | — | — |
 | Выравнивание | по базовой | по базовой | по базовой | по базовой |
 
-|  ![](../.gitbook/assets/upload-9be155de-ad1d-4ae8-bf68-15f21783432e-1-.jpg) |  ![](../.gitbook/assets/upload-d414c834-845e-4362-b3b5-f31e09f89daa-1-.png)  |
-| :--- | :--- |
-
-
 ### Шаблоны
 
 [Скачать шаблоны↗](https://disk.yandex.ru/client/disk/CREATIVE/!YTD_GUIDES/Templates/Outdoor)
