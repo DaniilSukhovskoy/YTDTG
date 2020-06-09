@@ -20,4 +20,5 @@
 * [Фотостиль](fotostil/README.md)
   * [Рекомендации](fotostil/rekomendacii.md)
   * [Untitled](fotostil/untitled.md)
+* [Процесс создания](process-sozdaniya.md)
 
