@@ -19,6 +19,6 @@
   * [Пиллар](naruzhnaya-reklama/pillar.md)
 * [Фотостиль](fotostil/README.md)
   * [Рекомендации](fotostil/rekomendacii.md)
-  * [Untitled](fotostil/untitled.md)
+  * [Инстаграм](fotostil/untitled.md)
 * [Процесс создания](process-sozdaniya.md)
 
