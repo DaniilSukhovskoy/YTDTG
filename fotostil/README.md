@@ -29,3 +29,5 @@
 
 ![](../.gitbook/assets/phdt.png)
 
+\*Для иллюстрации некоторых примеров были использованы фотографии [Александра Гронского](https://www.alexandergronsky.com/) и [Глеба Леонова](https://www.instagram.com/eble__onov/)
+
